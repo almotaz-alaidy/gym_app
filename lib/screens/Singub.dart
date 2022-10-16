@@ -98,7 +98,7 @@ class _SingubState extends State<Singub> {
                 labelText: 'youre pass again',
                 labelStyle: TextStyle(color: Colors.white, fontSize: 20),
                 hintStyle: TextStyle(color: Colors.white, fontSize: 20)),
-            controller: pass,
+            controller: conPass,
           ),
           // Confirm password
 

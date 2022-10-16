@@ -44,39 +44,39 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCvYYQENR2K1PVw0M6iUS5YpzJudoMOIYo',
-    appId: '1:283126827672:web:a5c2ad6be662b6d55f1eed',
-    messagingSenderId: '283126827672',
-    projectId: 'gym-app-cde0c',
-    authDomain: 'gym-app-cde0c.firebaseapp.com',
-    storageBucket: 'gym-app-cde0c.appspot.com',
+    apiKey: 'AIzaSyBkIpjA0hwkVJzZE5MqwcProYgnjaH03Nk',
+    appId: '1:628579240146:web:3252489bc3da0a1f67450b',
+    messagingSenderId: '628579240146',
+    projectId: 'firp-fb44f',
+    authDomain: 'firp-fb44f.firebaseapp.com',
+    storageBucket: 'firp-fb44f.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAjPeb4njo7Q4-kwm-e6p59qIQoW19sL2o',
-    appId: '1:283126827672:android:dac90d8eb828c52b5f1eed',
-    messagingSenderId: '283126827672',
-    projectId: 'gym-app-cde0c',
-    storageBucket: 'gym-app-cde0c.appspot.com',
+    apiKey: 'AIzaSyCNovpVlO7CwdR4smntZafTgkSgqP249aw',
+    appId: '1:628579240146:android:386ff64786a9892367450b',
+    messagingSenderId: '628579240146',
+    projectId: 'firp-fb44f',
+    storageBucket: 'firp-fb44f.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBfbVgAgE0-iQ_ux1R4pnsRXuEcpoMd-bY',
-    appId: '1:283126827672:ios:9ca3a2504265b7a55f1eed',
-    messagingSenderId: '283126827672',
-    projectId: 'gym-app-cde0c',
-    storageBucket: 'gym-app-cde0c.appspot.com',
-    iosClientId: '283126827672-bic1f03hd50og43mhavbk72hjl8pc9k8.apps.googleusercontent.com',
+    apiKey: 'AIzaSyAA2Q1UrHNt2m8LafWHM2-W3KtoR0ZkLgA',
+    appId: '1:628579240146:ios:2e154b6869225bb867450b',
+    messagingSenderId: '628579240146',
+    projectId: 'firp-fb44f',
+    storageBucket: 'firp-fb44f.appspot.com',
+    iosClientId: '628579240146-mk3cqakmac924t0rh4d4dt84gu7d9ugq.apps.googleusercontent.com',
     iosBundleId: 'com.example.ex',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBfbVgAgE0-iQ_ux1R4pnsRXuEcpoMd-bY',
-    appId: '1:283126827672:ios:9ca3a2504265b7a55f1eed',
-    messagingSenderId: '283126827672',
-    projectId: 'gym-app-cde0c',
-    storageBucket: 'gym-app-cde0c.appspot.com',
-    iosClientId: '283126827672-bic1f03hd50og43mhavbk72hjl8pc9k8.apps.googleusercontent.com',
+    apiKey: 'AIzaSyAA2Q1UrHNt2m8LafWHM2-W3KtoR0ZkLgA',
+    appId: '1:628579240146:ios:2e154b6869225bb867450b',
+    messagingSenderId: '628579240146',
+    projectId: 'firp-fb44f',
+    storageBucket: 'firp-fb44f.appspot.com',
+    iosClientId: '628579240146-mk3cqakmac924t0rh4d4dt84gu7d9ugq.apps.googleusercontent.com',
     iosBundleId: 'com.example.ex',
   );
 }

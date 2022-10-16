@@ -22,11 +22,11 @@ class FirebaseCrud {
 
     Map<String, dynamic> data = <String, dynamic>{
       "saturday": saturday,
-      "sunday": sunday,
-      "monday": monday,
-      "tusday": Tuesday,
-      "wensday": Wednesday,
-      "thursday": Thursday
+      "Sunday": sunday,
+      "Monday": monday,
+      "Tuesday": Tuesday,
+      "Wednesday": Wednesday,
+      "Thursday": Thursday
     };
 
     var result = await documentReferencer.set(data).whenComplete(() {
@@ -63,11 +63,11 @@ class FirebaseCrud {
 
     Map<String, dynamic> data = <String, dynamic>{
       "saturday": saturday,
-      "sunday": sunday,
-      "monday": monday,
-      "tusday": Tuesday,
-      "wensday": Wednesday,
-      "thursday": Thursday
+      "Sunday": sunday,
+      "Monday": monday,
+      "Tuesday": Tuesday,
+      "Wednesday": Wednesday,
+      "Thursday": Thursday
     };
 
     await documentReferencer.update(data).whenComplete(() {

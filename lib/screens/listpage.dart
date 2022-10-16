@@ -58,23 +58,23 @@ class _ListPage extends State<ListPage> {
                     )),
                     Container(
                         child: Text(
-                      "sunday: " + e['sunday'],
+                      "Sunday: " + e['Sunday'],
                     )),
                     Container(
                         child: Text(
-                      "monday: " + e['monday'],
+                      "Monday: " + e['Monday'],
                     )),
                     Container(
                         child: Text(
-                      "tusday: " + e['tusday'],
+                      "Tuesday: " + e['Tuesday'],
                     )),
                     Container(
                         child: Text(
-                      "wensday: " + e['wensday'],
+                      "Wednesday: " + e['Wednesday'],
                     )),
                     Container(
                         child: Text(
-                      "thursday: " + e['thursday'],
+                      "Thursday: " + e['Thursday'],
                     )),
                     ButtonBar(
                       alignment: MainAxisAlignment.spaceBetween,
@@ -94,11 +94,11 @@ class _ListPage extends State<ListPage> {
                                   info: Tabels(
                                     uid: e.id,
                                     saturday: e["saturday"],
-                                    sunday: e["sunday"],
-                                    monday: e["monday"],
-                                    tuesday: e["tusday"],
-                                    wednesday: e["wensday"],
-                                    thursday: e["thursday"],
+                                    sunday: e["Sunday"],
+                                    monday: e["Monday"],
+                                    tuesday: e["Tuesday"],
+                                    wednesday: e["Wednesday"],
+                                    thursday: e["Thursday"],
                                   ),
                                 ),
                               ),
